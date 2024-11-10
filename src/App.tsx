@@ -183,7 +183,7 @@ function App() {
       <Section id="about" title="About Me" className="bg-gradient-to-br from-purple-50 to-blue-50">
         <div className="max-w-3xl mx-auto text-center">
           <img
-            src="\assets\img\Vignesh Nadar.jpg"
+            src="/assets/img/Vignesh Nadar.jpg"
             alt="Profile"
             className="w-32 h-32 rounded-full mx-auto mb-8 object-cover"
           />
